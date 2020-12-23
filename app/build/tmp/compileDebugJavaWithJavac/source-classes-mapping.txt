@@ -1,0 +1,4 @@
+com/tershi/guessnum/MainActivity.java
+ com.tershi.guessnum.MainActivity
+com/tershi/guessnum/BuildConfig.java
+ com.tershi.guessnum.BuildConfig
